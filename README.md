@@ -13,5 +13,5 @@ Supported algorithms:
 
 Example:
 ```
-.\checksum.ps1 "C:\Downloads\File.exe" CHECKSUM_VALUE_TO_COMPARE_AGAINST SHA256
+.\checksum.ps1 "C:\Downloads\File.exe" CHECKSUM_VALUE_TO_COMPARE_AGAINST ALGORITHM
 ```
